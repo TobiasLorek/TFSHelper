@@ -1,5 +1,5 @@
 # TFSHelper
-A small cmd utility intended to simplyfy working with TSF and CC
+A small cmd utility intended to simplify working with TSF and CC
 
 
 ## Vision
@@ -23,7 +23,7 @@ The hope is that this utility will be able to handle the following tasks:
 
 	2.3. Checking in all files when issue have been resolved
 
-## Mision
+## Mission
 I want this to be as simple as possible so I intend for all these features to 
 be available through one command, which will go by the name `task`.
 
